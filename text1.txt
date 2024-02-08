@@ -3,3 +3,4 @@ test_V2.0
 test_V3.0
 test_V4.0
 test_V5.0
+test_V6.0
